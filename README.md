@@ -2,4 +2,4 @@
 
 Meu Prospecto
 
-Repositório criado para divulgar meu processo profissional.
+Repositório criado para divulgar meu progresso profissional.
