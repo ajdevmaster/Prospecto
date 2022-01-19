@@ -1,0 +1,87 @@
+:root {
+  --transition: all 0.2s linear;
+  --dark-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.2);
+}
+/* .font-1 {
+  font: 0.875rem/1.4 "Fira Sans", Arial, sans-serif;
+} */
+.font--0 {
+  font: 0.875rem/1.4 "Fira Sans", Arial, sans-serif;
+}
+/* .font-2 {
+  font: 600 1.125rem/1.4 "Fira Sans", Arial, sans-serif;
+} */
+.font-0 {
+  font: 600 1.125rem/1.4 "Fira Sans", Arial, sans-serif;
+}
+/* .font-3{ 
+font: 1.5rem/1.33 "Poppins", sans-serif; 
+} */
+.font-1 {
+  /* weight - tamanho - line heigth - family */
+  font: 1.5rem/1.33 "Poppins", sans-serif;
+}
+/* .font-4 {
+  font: 700 2rem/1.125 "Poppins", sans-serif;
+} */
+.font-2 {
+  /* weight - tamanho - line heigth - family */
+  font: 700 2rem/1.125 "Poppins", sans-serif;
+}
+/* .font-5{
+  font: 600 4.5rem "Poppins", sans-serif;
+} */
+.font-3 {
+  font: 600 4.5rem "Poppins", sans-serif;
+}
+/* .font-6{
+  font: 4.5rem/1.33 "Poppins", sans-serif;
+} */
+.font-4 {
+  font: 4.5rem/1.33 "Poppins", sans-serif;
+}
+/* .font-7 {
+  font: 600 8rem/1 "Fira Sans", Arial, sans-serif;
+} */
+.font-5 {
+  font: 600 8rem/1 "Fira Sans", Arial, sans-serif;
+}
+
+.font-7 {
+  font: 300 1.125rem "Fira Sans", Arial, sans-serif;
+}
+
+/***********************************
+          Padding
+pd-20 = 20px 
+/**********************************/
+.pad-20 {
+  padding: 1.25rem;
+}
+
+.pd-60 {
+  padding: 3.75rem;
+}
+
+/***********************************
+          Margin Bottom
+mb-10 = 10px   
+/**********************************/
+.mb-10 {
+  margin-bottom: 0.625rem;
+}
+.mb-20 {
+  margin-bottom: 1.25rem;
+}
+.mb-30 {
+  margin-bottom: 1.875rem;
+}
+.mb-40 {
+  margin-bottom: 2.5rem;
+}
+.mb-50 {
+  margin-bottom: 3.125rem;
+}
+.mb-60 {
+  margin-bottom: 3.75rem;
+}

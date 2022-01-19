@@ -1,0 +1,29 @@
+.introducao {
+  max-width: 1200px;
+  padding: 40px 20px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  align-items: center;
+}
+.introducao-texto {
+  margin-bottom: 30px;
+}
+
+@media (max-width: 800px) {
+  .introducao {
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+  }
+
+  .introducao-texto {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 460px) {
+  .introducao-texto {
+    font-size: 2rem;
+  }
+}

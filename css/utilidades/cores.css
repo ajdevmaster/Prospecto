@@ -1,0 +1,44 @@
+/**********************************
+COR
+cor-0 : #fff
+cor-1: #090e01
+cor-2:#cabfdf
+cor-1-x : #e0e0e0
+cor-1-s: #525252;
+cor-1-box: #f5f5f5;
+/**********************************/
+
+:root {
+  --cor-bg: #5c0067;
+  --cor-bg-grad: linear-gradient(90deg, #5c0067 10%, #00d4ff 90%);
+  --cor-0: #fff;
+  --cor-1: #090e01;
+  --cor-2: #cabfdf;
+  --cor-1-x: #e0e0e0;
+  --cor-1-s: #525252;
+  --cor-1-box: #f5f5f5;
+}
+.cor-bg {
+  color: var(--cor-bg);
+}
+.cor-bg-grad {
+  color: var(--cor-bg-grad);
+}
+.cor-0 {
+  color: var(--cor-0);
+}
+.cor-1 {
+  color: var(--cor-1);
+}
+.cor-2 {
+  color: var(--cor-2);
+}
+.cor-1-x {
+  color: var(--cor-1-x);
+}
+.cor-1-s {
+  color: var(--cor-1-s);
+}
+.cor-1-box {
+  color: var(--cor-1-box);
+}
