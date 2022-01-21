@@ -2,4 +2,4 @@
 
 Meu Prospecto
 
-Repositório criado para divulgar meu progresso em Front-End.
+Repositório criado para divulgar meu progresso em Html, Css e JavaScript.
